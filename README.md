@@ -12,4 +12,5 @@ Hoja para aprender utilizar C# con .NET 8.
 4. Guarda el proyecto con **compatibilidad NET.8 a largo plazo**
 
 #### Cadena de conexiones 
+Cadena de conexiones [GitHub Pages]([https://pages.github.com/](https://github.com/franklincaza/Hoja-de-.NET-8/blob/main/cadena%20de%20conexion)).
 
